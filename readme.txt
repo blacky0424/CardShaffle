@@ -2,5 +2,11 @@
 ステージが１～９まであり、数字が上がるごとに難易度も上がっていく
 動体視力を試すゲーム
 
+遊び方：最初のカードの位置を暗記し、入れ替わりが終わったら正解だと思うカードをタッチする。
+
 制作期間　約2週間 2017/7
 開発環境　Unity,C# 個人製作
+
+実行ファイル:CardShuffle\CardShaffle.exe
+スクリプトフォルダ:CardShuffle\Assets\Scripts
+プレイ動画URL:https://youtu.be/aZ_kWG_WdwE
